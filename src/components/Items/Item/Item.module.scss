@@ -1,0 +1,35 @@
+.card {
+  width: 15rem;
+}
+
+.cardImg {
+  height: 21rem;
+}
+
+.cardTitle {
+  text-align: center;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  word-break: break-word;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  width: 100%;
+  white-space: pre-line;
+  margin-bottom: 0;
+}
+.cardLabel {
+  font-weight: 600;
+}
+
+.cardBody {
+  display: flex;
+  width: 100%;
+  margin-bottom: 0;
+}
+
+.cardType {
+  margin-bottom: 10px;
+}

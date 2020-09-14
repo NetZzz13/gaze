@@ -1,0 +1,13 @@
+.searchForm {
+  margin: 0 auto;
+  display: flex;
+  @media screen and (max-width: 430px) {
+    flex-direction: column;
+  }
+}
+
+.buttonSubmit {
+  @media screen and (max-width: 430px) {
+    margin-top: 10px;
+  }
+}
